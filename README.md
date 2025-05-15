@@ -1,5 +1,6 @@
 
-**Heart Disease Prediction**
+#**Heart Disease Prediction**
+
 This project implements a machine learning model to predict the presence of heart disease using clinical data. The goal is to assist healthcare professionals in early diagnosis by leveraging predictive analytics and data science techniques.
 
 **Project Overview**
